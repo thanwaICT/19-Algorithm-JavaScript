@@ -1,3 +1,4 @@
+// การค้นหาแบบบเส้นตรง
 // All the javascript search methods like find, indexOf etc. are using Linear Search. This is the simplest way of searching. Given an array, we look at every element to find what we are looking for. We check one item at a time starting from the beginning of the array or end of the array. Let's say we have a list
 
 const LinearSearch = (list, val) => {

@@ -1,3 +1,4 @@
+// การตรวจคำย้อนกลับ
 // Palindrome: A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization. Examples of palindromes include:
 // Words: "level", "radar", "civic"
 // Phrases: "A man, a plan, a canal, Panama!"

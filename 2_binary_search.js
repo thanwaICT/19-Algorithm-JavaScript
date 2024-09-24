@@ -1,3 +1,4 @@
+// การค้นหาแบบ ทวิภาค
 // Binary search is a much faster algorithm because of the way it works. At any given point it eliminates half of the array.
 // But The only caveat is it only works on Sorted arrays.
 

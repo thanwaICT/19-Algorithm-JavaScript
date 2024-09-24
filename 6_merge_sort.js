@@ -1,3 +1,4 @@
+// กาเรียงลำดับแบบแบ่งและผสาน
 function MergeSort(arr) {
   if (arr.length > 1) {
     const mid = Math.floor(arr.length / 2);

@@ -1,3 +1,4 @@
+// การเรียงลำดับแบบแบ่งแยก
 function QuickSort(arr) {
   if (arr.length <= 1) return arr;
 

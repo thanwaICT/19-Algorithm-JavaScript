@@ -1,3 +1,4 @@
+// การเรียงลำดับแบบเลือก
 function SelectionSort(arr) {
   for (let i = 0; i < arr.length; i++) {
     let minIdx = i;

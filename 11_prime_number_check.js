@@ -1,4 +1,4 @@
-// Primary number
+// การตรวจสอบจำนวนเฉพาะ : Primary number
 function isPrime(n) {
   if (n <= 1) return false; // 0 and 1 are not prime numbers
   for (let i = 2; i <= Math.sqrt(n); i++) {

@@ -1,3 +1,4 @@
+// การกลับลำดับลิสต์
 function reverseArray1(arr) {
   return arr.reverse(); // Using the built-in reverse method
 }

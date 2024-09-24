@@ -1,3 +1,4 @@
+// ลำดับเลขฟีโบนัชชี
 // The Fibonacci sequence is a series of numbers where each number (after the first two) is the sum of the two preceding ones. It typically starts with 0 and 1. The sequence goes like this:
 // 0, 1, 1, 2, 3, 5, 8, 13, 21, ...
 function Fibonacci(n) {
